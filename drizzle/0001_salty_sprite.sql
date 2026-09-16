@@ -1,0 +1,1 @@
+ALTER TABLE `attempts` ADD `mode` text DEFAULT 'workshop' NOT NULL;
